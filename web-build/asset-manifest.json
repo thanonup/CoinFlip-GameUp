@@ -1,0 +1,27 @@
+{
+  "files": {
+    "app.js": "/static/js/app.2e27a323.chunk.js",
+    "app.js.map": "/static/js/app.2e27a323.chunk.js.map",
+    "runtime~app.js": "/static/js/runtime~app.2e9f1821.js",
+    "runtime~app.js.map": "/static/js/runtime~app.2e9f1821.js.map",
+    "static/js/2.53f5910d.chunk.js": "/static/js/2.53f5910d.chunk.js",
+    "static/js/2.53f5910d.chunk.js.map": "/static/js/2.53f5910d.chunk.js.map",
+    "fonts/FC-Minimal-Regular.ttf": "/./fonts/FC-Minimal-Regular.ttf",
+    "fonts/Olylum-Font.ttf": "/./fonts/Olylum-Font.ttf",
+    "fonts/Pind-text.ttf": "/./fonts/Pind-text.ttf",
+    "favicon-16.png": "/favicon-16.png",
+    "favicon-32.png": "/favicon-32.png",
+    "favicon.ico": "/favicon.ico",
+    "index.html": "/index.html",
+    "manifest.json": "/manifest.json",
+    "serve.json": "/serve.json",
+    "static/js/2.53f5910d.chunk.js.LICENSE.txt": "/static/js/2.53f5910d.chunk.js.LICENSE.txt",
+    "static/media/coin-01.png": "/static/media/coin-01.72d29bc0.png",
+    "static/media/coin-02.png": "/static/media/coin-02.199a798d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.2e9f1821.js",
+    "static/js/2.53f5910d.chunk.js",
+    "static/js/app.2e27a323.chunk.js"
+  ]
+}
